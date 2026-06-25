@@ -4,7 +4,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mjcosta-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="143" alt="stats graph" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mjcosta-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=midnight-purple&hide_border=false" height="143" alt="languages graph"  />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mjcosta-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=false" height="143" alt="languages graph"  />
   <img align-top="top" height="150" alt="Image" src="https://github.com/user-attachments/assets/52814be2-060a-48f6-8a39-b78c3c67a002" />
   
   
